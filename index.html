@@ -1,11 +1,40 @@
 <html>
 
 <head>
-<title>首页</title>
+<title>博客建设中</title>
 </head>
 
 <body>
-<p>Hello there</p>
+<p><span id="num" face="impact">3</span>秒后跳转，如不跳转点击<a href="/oneMonth/index.html">这里</a>!</p>
 </body>
+
+<!-- <script type="text/javascript"> 
+  onload = function() { 
+    setInterval(go, 1000); 
+  }; 
+  var x = 3; //利用了全局变量来执行 
+  function go() { 
+    x--; 
+    if (x>0) { 
+      document.getElementById("sp").innerHTML = x; //每次设置的x的值都不一样了。
+    } else {
+      location.href='/oneMonth/index.html';
+    } 
+  }
+</script> -->
+
+<script type="text/javascript">
+  window.onload = function(){         //一进该页面就加载以下方法
+    setInterval(countDown, 1000);    //一般秒设置为参数为1000
+  }
+  var sec = 3;                  //设置倒计时时间为30秒
+  function countDown() {        //倒计时的方法
+    if(sec > 0) {
+      num.innerHTML = sec--;
+    } else {
+      location.href = '/oneMonth/index.html';  //倒计时为0进入的页面
+    }
+  }
+</script>
 
 </html>

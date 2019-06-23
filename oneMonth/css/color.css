@@ -1,0 +1,171 @@
+/* --------- color Style ---------- */
+
+
+span.blete-highlight-text{
+	color: #FDD000;
+}
+
+.blete-button-solid{
+	background-color: #FDD000;
+}
+
+.blete-button-solid:hover{
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+.blete-button-outline-light:hover{
+	background-color: #FDD000
+}
+
+.blete-button-outline-dark:hover{
+	background-color: #FDD000;
+}
+
+.blete-button-outline-round-dark:hover{
+	background-color: #FDD000;
+}
+
+.blete-btn-round{
+	background-color: #FDD000;
+}
+
+.blete-btn-round:hover{
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+
+.blete-button-outline-round:hover{
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+
+.blete-blurb-icon-only i{
+	color: #FDD000;
+}
+
+.blete-blurb-icon-only h3{
+	color: #FDD000
+}
+
+.blete-blurb-round-icon:hover .blete-icon{
+	/* background-color: #FDD000; */
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.62);
+}
+.blete-blurb-icon-left-square {
+	padding: 20px;
+	border: double 3px #FDD000
+}
+.blete-blurb-icon-left-square .blete-icon:hover {
+	background-color: #FDD000;
+}
+.blete-blurb-round-icon:hover h3{
+	color: #FDD000;
+}
+
+.blete-blurb-icon-left-square:hover .blete-blurb-text h3{
+	color: #FDD000;
+}
+
+.blete-blurb-icon-left-square:hover .blete-blurb-text h3:after{
+	background-color: #FDD000;
+}
+
+.blete-main-menu .navbar-nav li a:hover,
+.blete-main-menu .navbar-nav li.active a{
+    color: #FDD000;
+}
+
+.blete-slider .sp-selected-button {
+  background-color: #eee;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.62);
+}
+
+/* .blete-member-details h3{
+	color: #FDD000;
+} */
+#scrollUp:hover {
+	background-color: #FDD000;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.62);
+}
+/* --------- Team Style ---------*/
+.blete-member-details ul li a:hover {
+	background-color: #FDD000;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.62);
+}
+/* --------- Featured Work ---------- */
+.blete-port-work-details .blete-port-work-desc p a:hover{
+	color: #FDD000;
+}
+
+.blete-port-work-details .blete-port-work-desc h3{
+	color: #FDD000;
+}
+
+.blete-port-work-details .blete-port-work-desc .blete-like-btn a:hover{
+	color: #FDD000;
+}
+
+.blete-port-work-details .blete-port-work-desc .blete-like-btn a:hover i{
+	color: #FDD000;
+}
+
+/* --------- Portfolio Style -----------*/
+.blete-portfolio-filter-btn-group ul li a.selected{
+	background-color: #FDD000;
+}
+
+.blete-portfolio-item .blete-portfolio-details h3{
+	color: #FDD000;
+}
+
+.blete-portfolio-item .blete-portfolio-details p a:hover{
+	color: #FDD000;
+}
+
+.blete-portfolio-btn-wrapper a.blete-portfolio-btn:hover{
+	color: #ffffff;
+	background-color: #FDD000;
+	border: 2px solid transparent;
+}
+.blete-portfolio-details .blete-portfolio-meta-btn ul li:hover {
+	background-color: #FDD000;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.62);
+}
+.blete-portfolio-filter-btn-group ul li a {
+	border: 2px solid #FDD000;
+	margin: 2px;
+    color: #333;
+}
+.blete-custom-sec-text ul li i{
+	color: #FDD000;
+}
+.blete-process-item:hover h3{
+	color: #FDD000;
+}
+.blete-pricing-plans a.blete-signup-btn {
+	background-color: #FDD000;
+}
+
+.blete-pricing-plans a.blete-signup-btn:hover{
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+.owl-theme .owl-controls .owl-page span {
+  border: 1px solid #FDD000;
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+  background-color: #FDD000;
+  box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.62);
+}
+
+.blete-footer-social-info li:hover {
+	background-color: #FDD000;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.62);
+}
+/* ------- Contact Style ------ */
+.blete-contact-section .blete-contact-form input[type="submit"] {
+	background-color: #FDD000;
+}
+.blete-contact-section .blete-contact-form input[type="submit"]:hover {
+	opacity: 0.6;
+}
+.blete-contact-section .blete-contact-address ul li i {
+	background-color: #FDD000;
+}
